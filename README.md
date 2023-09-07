@@ -1,2 +1,2 @@
-# pycode
+# PythonCode
 Python学习
